@@ -2,6 +2,10 @@
 
 Generate secure and random passwords with Random Password Generator. Never use an insecure password again!
 
+## Preview
+
+![Followirn Password Generator Preview](RandomPasswordGenerator.png)
+
 ## How it Works
 
 This project generates random passwords using a predefined set of characters. Simply click the "Generate passwords" button, and two passwords will be generated for you.
