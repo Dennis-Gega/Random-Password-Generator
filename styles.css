@@ -1,0 +1,74 @@
+/* Blue = 273549, Green = 10B981, Medium Grey, White, Night */
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: Arial;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.page {
+    width: 550px;
+}
+
+.header-top {
+    align-items: left;
+    font-size: 50px;
+    color: white;
+    margin-bottom: -10px;
+}
+
+.header-bottom {
+    align-items: left;
+    font-size: 50px;
+    color: #5DEF92;
+    margin-bottom: 10px;
+}
+
+.subscript {
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: 100;
+    color: #D5D4D8;
+    margin-bottom: 50px;
+}
+
+.generate-button {
+    border: none;
+    height: 50px;
+    width: 200px;
+    background-color: #10B981;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+
+.line {
+    height: 1px;
+    border: none;
+    background-color: #2F3E53;
+    margin-bottom: 40px;
+}
+
+.password-display {
+    display: flex;
+    justify-content: space-between;
+}
+
+.password {
+    text-align: center;
+    line-height: 60px;
+    height: 60px;
+    width: 260px;
+    border-radius: 5px;
+    background-color: #2F3E53;
+    color: #10B981;
+}
