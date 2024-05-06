@@ -31,6 +31,6 @@ This project generates random passwords using a predefined set of characters. Si
 
 ## How to Run
 
-- Visit (dennis-gega.github.io/random-password-generator/)
+- [Click Here!](dennis-gega.github.io/random-password-generator/)
 
 ---
