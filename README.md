@@ -1,6 +1,6 @@
 # Random Password Generator
 
-Generate secure and random passwords with Followirn Password Generator. Never use an insecure password again!
+Generate secure and random passwords with Random Password Generator. Never use an insecure password again!
 
 ## How it Works
 
@@ -25,6 +25,6 @@ This project generates random passwords using a predefined set of characters. Si
 - CSS
 - JavaScript
 
-## How to Run Locally
+## How to Run
 
 ---
